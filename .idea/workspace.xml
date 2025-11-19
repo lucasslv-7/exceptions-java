@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6b0551-2368-4f91-8b26-7816bef8f6e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/model/exceptions/DomainException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entities/Reservation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
